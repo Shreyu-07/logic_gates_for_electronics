@@ -34,4 +34,4 @@ Input A | Input B | Output
 1       | 1       | 0
 ---------------------------
 
-# For rigth output go to the code part which is above the header andd side of the Preview
+# For rigth output go to the code part which is above the header and side of the Preview
