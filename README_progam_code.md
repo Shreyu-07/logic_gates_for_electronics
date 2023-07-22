@@ -35,3 +35,5 @@ if __name__ == "__main__":
     print_truth_table(logical_or, "OR")
     print_truth_table(logical_not, "NOT")
     print_truth_table(logical_xor, "XOR")
+
+    # For the source code go to the **code ** which is side of the **preview**
