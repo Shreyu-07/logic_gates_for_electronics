@@ -1,4 +1,4 @@
-# logic_gates_for_electronics
+# Logic_gates_for_electronics
 Great! The updated code is correct, and it will produce the truth tables for all four basic logic gates without any errors. When you run the code, it will print the truth tables............
 
 # 1 )Function Definitions:
